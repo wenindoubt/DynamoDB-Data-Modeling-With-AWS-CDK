@@ -1,0 +1,10 @@
+deployments:
+  - modules:
+      - path: app
+        environments:
+          common: true
+        options:
+          build_steps:
+            - npx tsc
+    regions:
+      - us-west-2

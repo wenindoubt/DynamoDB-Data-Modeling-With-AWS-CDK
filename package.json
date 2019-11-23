@@ -1,0 +1,16 @@
+{
+  "name": "dynamodb-data-modeling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@onica/runway": "^1.3.2",
+    "aws-cdk": "^1.17.1"
+  }
+}
